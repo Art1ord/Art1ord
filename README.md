@@ -19,4 +19,4 @@
 💫 Готов помочь и поделиться своим опытом!
   
  ---
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
