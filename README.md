@@ -19,4 +19,4 @@
 💫 Готов помочь и поделиться своим опытом!
   
  ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) --
