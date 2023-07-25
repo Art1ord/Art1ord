@@ -20,13 +20,12 @@
 
 ---
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p>
+
+[![Discord](https://skillicons.dev/icons?i=Discord)](https://discord.gg/f5PDMxZ7JN)
+
  ---
 # 💻 My Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,figma,bootstrap,blender,cpp,bots,sass,mongodb,flutter)](https://skillicons.dev)
 
  ---
