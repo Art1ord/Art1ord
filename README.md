@@ -24,7 +24,7 @@
 
  ---
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,figma,bootstrap,blender,cpp,discord,js)](https://skillicons.dev)
 
  ---
 # 📊 GitHub Stats:
