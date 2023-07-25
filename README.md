@@ -21,7 +21,7 @@
 ---
 ## 🌐 Socials:
 
-[![Discord](https://skillicons.dev/icons?i=Discord)](https://discord.gg/f5PDMxZ7JN)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/f5PDMxZ7JN)
 
  ---
 # 💻 My Skills:
