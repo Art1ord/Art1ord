@@ -41,4 +41,4 @@
 [![](https://visitcount.itsvg.in/api?id=Art1ord&icon=2&color=0)](https://visitcount.itsvg.in)               
 
  ---
- [![Discord Presence](https://lanyard.cnrad.dev/api/936621352738250843)](https://discord.com/users/936621352738250843)
+[![Discord Presence](https://lanyard.cnrad.dev/api/936621352738250843)](https://discord.com/users/936621352738250843)
