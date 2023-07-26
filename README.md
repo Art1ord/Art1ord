@@ -4,6 +4,7 @@
 </div>
 
  ---
+
 <div align="center">
     <h1>𝘏𝘪 𝘴𝘵𝘢𝘭𝘬𝘦𝘳 𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦</h1>
     <a href="https://discord.com/users/936621352738250843">
@@ -17,7 +18,8 @@
     <p><a href="https://youtu.be/qFmjFnDWpjU">-𝑪𝑯𝑰𝑯𝑰𝑹𝑶 - 𝟐𝑫 𝒈𝒊𝒓𝒍</a></p>
 </div>
 
- ---
+---
+
 <div>
 <h2 align="center"> 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆 </h2>
   <div align="center">
