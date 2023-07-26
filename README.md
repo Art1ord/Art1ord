@@ -19,7 +19,7 @@
 
  ---
 <div>
-<h2 align="center">  </h2>
+<h2 align="center"> 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆 </h2>
   <div align="center">
 <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/me.gif" align="right">
   </div>
