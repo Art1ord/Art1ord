@@ -40,4 +40,19 @@
 <h2 align="center"> 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 </h2>
   <div align="center">
 <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/Knowledge.gif" align="left">
+
+  <dl align="left">
+  <dt>Basic languages:</dt>
+  <dd>- Python, C, C++, C# </dd>
+  <dt>FrontEnd:</dt>
+  <dd>- Html, Css, JavaScript </dd>
+  <dt>FrontEnd frameworks:</dt>
+  <dd>- React, Vue.js, jQuery, Semantic-UI,  </dd>
+  <dt>BackEnd:</dt>
+  <dd>- Java, Python, PHP</dd>
+  <dt>BackEnd frameworks:</dt>
+  <dd>- Spring, Django, Flask </dd>
+  <dt>Learning:</dt>
+  <dd>- Pytorch, GO, NPL</dd>
+</dl>
   </div>
