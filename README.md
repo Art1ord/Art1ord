@@ -25,12 +25,11 @@
 <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/me.gif" align="right">
   </div>
   <br>
-<li>
- <b>Name:</b> Artur
- <br>
- <dl>
+<dl>
+  <dd>Name</dd>
+  <dd>- Arthur </dd>
   <dt>My hobbies</dt>
   <dd>- Anime, Manga, Games </dd>
 </dl>
-</li>
+
 </div>
