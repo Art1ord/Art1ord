@@ -28,8 +28,8 @@
 <li>
  <b>Name:</b> Artur
  <br>
- <li>тест</li>
- </li>
+ <lu>тест
+ </lu>
 <br>
 <li>
 </div>
