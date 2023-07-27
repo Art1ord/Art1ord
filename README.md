@@ -35,5 +35,9 @@
   <dt>Hobbys:</dt>
   <dd>- Web Development, Streaming </dd>
 </dl>
-
 </div>
+div>
+<h2 align="center"> 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 </h2>
+  <div align="center">
+<img src="https://github.com/Art1ord/Art1ord/blob/main/assets/Knowledge.gif" align="left">
+  </div>
