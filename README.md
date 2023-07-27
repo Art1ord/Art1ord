@@ -27,7 +27,9 @@
   <br>
 <li>
  <b>Name:</b> Artur
+ <br>
+ <li>тест</li>
  </li>
- - test
-  - тест
+<br>
+<li>
 </div>
