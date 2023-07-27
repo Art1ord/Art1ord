@@ -26,10 +26,14 @@
   </div>
   <br>
 <dl>
-  <dt>Name</dt>
+  <dt>Name:</dt>
   <dd>- Arthur </dd>
-  <dt>My hobbies</dt>
+  <dt>Gender:</dt>
+  <dd>- he/him </dd>
+  <dt>Loves:</dt>
   <dd>- Anime, Manga, Games </dd>
+  <dt>Hobbys:</dt>
+  <dd>- Web Development, Streaming </dd>
 </dl>
 
 </div>
