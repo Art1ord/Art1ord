@@ -28,7 +28,9 @@
 <li>
  <b>Name:</b> Artur
  <br>
- <lu>тест
- </lu>
+ <dl>
+  <dt>My hobbies</dt>
+  <dd>- Anime, Manga, Games </dd>
+</dl>
 </li>
 </div>
