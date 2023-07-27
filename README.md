@@ -24,7 +24,6 @@
   <div align="center">
 <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/me.gif" align="right">
   </div>
-  <br>
 <dl>
   <dt>Name:</dt>
   <dd>- Arthur </dd>
