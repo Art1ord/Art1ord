@@ -28,5 +28,6 @@
 <li>
  <b>Name:</b> Artur
  </li>
-
+ - test
+  - тест
 </div>
