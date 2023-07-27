@@ -26,7 +26,7 @@
   </div>
   <br>
 <dl>
-  <dd>Name</dd>
+  <dt>Name</dt>
   <dd>- Arthur </dd>
   <dt>My hobbies</dt>
   <dd>- Anime, Manga, Games </dd>
