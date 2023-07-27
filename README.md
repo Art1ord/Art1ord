@@ -36,6 +36,8 @@
   <dd>- Web Development, Streaming </dd>
 </dl>
 </div>
+
+ ---
 <div>
 <h2 align="center"> 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 </h2>
   <div align="center">
