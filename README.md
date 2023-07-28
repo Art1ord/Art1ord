@@ -72,3 +72,7 @@
     <img align="left" src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
     </a>
 </div>
+ 
+ ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
