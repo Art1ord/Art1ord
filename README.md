@@ -88,10 +88,10 @@
 </div>
  
  ---
- <div>
+ <div align="center">
  <h2 align="center"> 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 </h2>
   <a>
-    <img align="right" src="https://github.com/Art1ord/Art1ord/blob/main/assets/s.gif"/>
+    <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/s.gif"/>
     </a>
   <dl>
   <dt>Discord:</dt>
