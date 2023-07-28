@@ -63,10 +63,10 @@
 <div>
 <h2 align="center"> 𝙎𝙩𝙖𝙩𝙨 </h2>
      <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews">
     </a>
     <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Art1ord&repo=github-readme-stats&theme=dark">
+    <img align="right" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&theme=dark">
     </a>
     <a>
     <img align="left" src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
