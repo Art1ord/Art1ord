@@ -92,5 +92,5 @@
  
  ---
 <div align="center">
-![](https://typograssy.deno.dev/api?text=Art1ord&l0=000000&l1=cb79e2&l2=bf5fb2&l3=ad46b4&l4=ad62d0&speed=250)
+ <img src="https://typograssy.deno.dev/api?text=Art1ord&l0=000000&l1=cb79e2&l2=bf5fb2&l3=ad46b4&l4=ad62d0&speed=250">
 </div>
