@@ -57,3 +57,12 @@
   <dd>- Pytorch, GO, NPL</dd>
 </dl>
   </div>
+
+  ---
+
+<div>
+<h2 align="center"> 𝙎𝙩𝙖𝙩𝙨 </h2>
+     <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=art1ord&show_icons=true&theme=transparen">
+    </a>
+</div>
