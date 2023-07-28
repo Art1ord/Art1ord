@@ -92,5 +92,5 @@
  
  ---
 <div align="center">
- <img src="https://typograssy.deno.dev/api?text=Art1ord&l0=000000&l1=cb79e2&l2=bf5fb2&l3=ad46b4&l4=ad62d0&speed=250">
+ <img src="https://typograssy.deno.dev/api?text=Art1ord&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250">
 </div>
