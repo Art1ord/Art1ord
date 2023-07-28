@@ -42,7 +42,7 @@
   <div align="center">
 <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/Knowledge.gif" align="left">
 
-  <dl>
+  <dl align="right">
   <dt>Basic languages:</dt>
   <dd>- Python, C, C++, C# </dd>
   <dt>FrontEnd:</dt>
