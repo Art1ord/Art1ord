@@ -71,6 +71,9 @@
     <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews">
     </a>
+    <a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord&theme=dark">
+    </a>
 </div>
  
  ---
