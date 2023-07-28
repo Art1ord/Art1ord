@@ -88,6 +88,21 @@
 </div>
  
  ---
+ <div>
+ <h2 align="center"> 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 </h2>
+  <a>
+    <img align="right" src="https://github.com/Art1ord/Art1ord/blob/main/assets/s.gif"/>
+    </a>
+  <dl>
+  <dt>Discord:</dt>
+  <dd>- Art1ord</dd>
+  <dt>Telegram:</dt>
+  <dd>- ```@Art1ord```</dd>
+</dl>
+
+</div>
+
+ ---
 <div align="center">
  <h2 align="center"> 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 </h2>
  <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
