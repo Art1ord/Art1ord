@@ -77,3 +77,6 @@
 </div>
  
  ---
+<a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Art1ord&theme=dark">
+</a>
