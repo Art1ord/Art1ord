@@ -66,7 +66,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews">
     </a>
     <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord\&layout=compact&theme=dark">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&layout=compact&theme=dark">
     </a>
     <a>
     <img align="left" src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
