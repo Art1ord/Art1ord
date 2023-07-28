@@ -84,8 +84,13 @@
  ---
 
 <div>
-<h2 align="center">  </h2>
+<h2 align="center"> 𝙎𝙥𝙤𝙩𝙞𝙛𝙮 </h2>
   <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d75fmhk4rysok2bwstr3kqzz5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" align="center">
   </div>
+</div>
+ 
+ ---
+<div align="center">
+![](https://typograssy.deno.dev/api?text=Art1ord&l0=000000&l1=cb79e2&l2=bf5fb2&l3=ad46b4&l4=ad62d0&speed=250)
 </div>
