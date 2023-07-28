@@ -97,7 +97,7 @@
   <dt>Discord:</dt>
   <dd>- Art1ord</dd>
   <dt>Telegram:</dt>
-  <dd>- ```@Art1ord```</dd>
+  <dd>- @Art1ord</dd>
 </dl>
 
 </div>
