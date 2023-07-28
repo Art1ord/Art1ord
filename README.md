@@ -78,5 +78,5 @@
  
  ---
 <a>
-  <img src="https://github-profile-trophy.vercel.app/?username=Art1ord&theme=dark">
+  <img src="https://github-profile-trophy.vercel.app/?username=Art1ord&theme=darkhub&column=7">
 </a>
