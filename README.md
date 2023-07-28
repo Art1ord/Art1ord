@@ -92,5 +92,6 @@
  
  ---
 <div align="center">
+ <h2 align="center"> 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 </h2>
  <img src="https://typograssy.deno.dev/api?text=Art1ord&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
 </div>
