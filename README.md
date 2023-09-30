@@ -72,14 +72,14 @@
 <h2 align="center"> 𝙎𝙥𝙤𝙩𝙞𝙛𝙮 </h2>
 
 <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d75fmhk4rysok2bwstr3kqzz5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d75fmhk4rysok2bwstr3kqzz5y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </div>
 
 <h2 align="center"> 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 </h2>
 
 <div align="center">
     <a>
-        <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/s.gif"/>
+        <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/s.gif" style="max-width: 100%;">
     </a>
     <dl>
         <dt>Discord:</dt>
