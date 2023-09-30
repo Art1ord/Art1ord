@@ -62,11 +62,12 @@
 <h2 align="center"> 𝙎𝙩𝙖𝙩𝙨 </h2>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" width="250">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&layout=compact&theme=dark" width="250">
-    <img src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews" width="250">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord&theme=dark" width="250">
+    <img src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" width="200" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&layout=compact&theme=dark" width="200" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews" width="200" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord&theme=dark" width="200">
 </div>
+
 
 ---
 
