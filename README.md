@@ -55,19 +55,19 @@
     <div class="stats">
         <div class="stat">
             <h3>Streak</h3>
-            <img src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" width="200">
+            <img src="https://streak-stats.demolab.com?user=Art1ord&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D">
         </div>
         <div class="stat">
             <h3>Top Languages</h3>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&layout=compact&theme=dark" width="200">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&layout=compact&theme=dark">
         </div>
         <div class="stat">
             <h3>GitHub Stats</h3>
-            <img src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews" width="200">
+            <img src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews">
         </div>
         <div class="stat">
             <h3>Wakatime</h3>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord&theme=dark" width="200">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord&theme=dark">
         </div>
     </div>
 </div>
